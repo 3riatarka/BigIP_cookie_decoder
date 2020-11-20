@@ -4,6 +4,8 @@
 # HTTP Passive cookie implementation: https://web.archive.org/web/20150603012044/https://support.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/ltm_configuration_guide_10_0_0/ltm_persist_profiles.html
 # https://support.f5.com/csp/article/K83419154
 
+# Source: http://gursevkalra.blogspot.com/2011/12/decoding-bigip-cookie.html
+
 
 ### The cookie is implemented following these instructions:
 # For example, the following string is a generated cookie template with the encoding automatically added, where [pool name] 
