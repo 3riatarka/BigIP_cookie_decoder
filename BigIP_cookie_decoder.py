@@ -22,7 +22,7 @@
 # Port 1433 (instead of 5 * 256 + 153) becomes 153 * 256 + 5 = 39173. 
 ###
 
-import sys, math
+import sys
 
 if len(sys.argv) != 2:
 	print(f"Usage: {sys.argv[0]} <BigIP cookie value>")
